@@ -1,0 +1,9 @@
+{
+  "cursos":
+	[
+	  {"codigo":"1","descricao":"Java do Neri","diashorarios":"segundas 19hrs","professor":"Neri"},
+	  {"codigo":"2","descricao":"Delphi","diashorarios":"Tercas 19hrs","professor":"Valderi"},
+	  {"codigo":"3","descricao":"Java EE","diashorarios":"Quartas 19hrs","professor":"Vande"},
+	  {"codigo":"4","descricao":"Arduino","diashorarios":"Sabados 19hrs","professor":"Sidinei"}
+    ]
+}
